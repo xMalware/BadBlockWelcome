@@ -1,0 +1,6 @@
+name: BadBlockWelcome
+author: xMalware
+main: fr.badblock.welcome.BadBlockWelcome
+version: 1.0
+description: Simple welcome plugin
+depend: [Essentials]
